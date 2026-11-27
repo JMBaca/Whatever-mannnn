@@ -13,3 +13,14 @@ Drag to move; weapons auto-fire. Tap DASH, NOVA and VOID. Desktop: WASD, Space, 
 ## Play online
 
 Once GitHub Pages deploys, open https://jmbaca.github.io/Whatever-mannnn/ in Safari.
+
+## Audiovisual 2.0 — flight and spectacle
+
+- Velocity-based ship orientation, analog acceleration, braking, and camera lead.
+- Twin-engine plasma exhaust, parallax stars, nebula shading, layered weapon trails, lens flares and stronger gravitational grid warping.
+- Original synthesized Web Audio effects and adaptive electronic soundtrack.
+- Settings: sound, music, volume, graphics quality, screen shake, joystick sensitivity, and performance diagnostics.
+- Automatic quality reduction when measured frame rate falls; local high scores retained.
+- Updated offline cache; reopen while online to receive new releases.
+
+Validation: JavaScript syntax and simulated gameplay, controls, settings, and audio scheduling checks. Physical iPhone rendering/audio and real offline installation still require playtesting.
