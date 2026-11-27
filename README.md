@@ -1,5 +1,5 @@
 # NEON RIFT: OVERDRIVE
-
+First iPhone beta.
 Mobile-first arena survival game. Eight weapons, three abilities, a 3600 × 2600 arena, local high scores and offline play.
 
 ## iPhone installation
