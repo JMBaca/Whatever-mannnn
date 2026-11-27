@@ -9,3 +9,7 @@ Enable GitHub Pages from main / (root). Open the deployed HTTPS URL in Safari an
 ## Controls
 
 Drag to move; weapons auto-fire. Tap DASH, NOVA and VOID. Desktop: WASD, Space, Q and E.
+
+## Play online
+
+Once GitHub Pages deploys, open https://jmbaca.github.io/Whatever-mannnn/ in Safari.
