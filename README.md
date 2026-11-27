@@ -28,3 +28,7 @@ Validation: JavaScript syntax and simulated gameplay, controls, settings, and au
 ## 2.1 — Drift
 
 Layered cybernetic weapon sounds with louder shots, reduced hit/death masking and a master compressor. Removed independent aiming rod; directional momentum drift, side thrusters, speed-sensitive enemy spawn pacing and safe-distance spawn placement. Simulated checks: 360 spawn placements, direction reversal and braking, 519 scheduled audio nodes with no invalid parameters. Device sound and feel require playtesting.
+
+## 2.5 — Spectral
+
+Thin twin motion ribbons, rapid hull rotation independent of momentum, stronger lateral inertia, original sample-based audio with FM, filtered noise, saturation, echoes, randomized playback, responsive engine loop, and adaptive percussion/bass. Simulated verification: 75 rendered samples across 25 profiles, finite unclipped sample data, 227 playback nodes, engine pause, and steering tests. Real device listening and deployment checks pending.
