@@ -24,3 +24,7 @@ Once GitHub Pages deploys, open https://jmbaca.github.io/Whatever-mannnn/ in Saf
 - Updated offline cache; reopen while online to receive new releases.
 
 Validation: JavaScript syntax and simulated gameplay, controls, settings, and audio scheduling checks. Physical iPhone rendering/audio and real offline installation still require playtesting.
+
+## 2.1 — Drift
+
+Layered cybernetic weapon sounds with louder shots, reduced hit/death masking and a master compressor. Removed independent aiming rod; directional momentum drift, side thrusters, speed-sensitive enemy spawn pacing and safe-distance spawn placement. Simulated checks: 360 spawn placements, direction reversal and braking, 519 scheduled audio nodes with no invalid parameters. Device sound and feel require playtesting.
